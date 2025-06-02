@@ -4,6 +4,8 @@ A modern, animated 3D developer portfolio built with React, Three.js, TailwindCS
 
 ---
 
+[Live Demo](https://3-d-portfolio-2tk73ky4r-kavana-b-cs-projects.vercel.app/)
+
 ## 📚 Table of Contents
 
 - [Features](#-features)
